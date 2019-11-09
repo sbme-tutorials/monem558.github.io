@@ -1,10 +1,14 @@
-![Mahmoud Abd Elmonem](member2.jpg)
+<img src="member2.jpg" alt="Mahmoud Abd Elmonem" width="250"/>
 
 * Name: **Mahmoud Abd Elmonem**
 * Year of birth: **1998**
 * e-mail: **hooodamonem111@gmail.com**
 * [GitHub](https://github.com/monem558)
 * [Linkedin](https://www.linkedin.com/in/mahmoud-monem-967b07108/)
+
+## Experience
+* Participated in IEEEXtreme competition and we ranked 2nd on Egypt
+* Participated in ECPC contest and placed 36th on Egypt
 
 ## Interests
 * Research in Computer science & Software Engineering

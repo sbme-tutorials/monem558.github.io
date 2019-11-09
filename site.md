@@ -1,4 +1,4 @@
-<img src="member2.jpg" alt="Mahmoud Abd Elmonem" width="250"/>
+<img src="member2.jpg" style = "float : right;" alt="Mahmoud Abd Elmonem" width="250"/>
 
 * Name: **Mahmoud Abd Elmonem**
 * Year of birth: **1998**
